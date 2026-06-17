@@ -1,0 +1,20 @@
+{
+  "start_url": "https://www.vuokraovi.com/vuokra-asunnot/Helsinki",
+
+  "fields": [
+    "title",
+    "rent",
+    "sqm",
+    "rooms",
+    "location",
+    "description",
+    "property_url",
+    "image_url"
+  ],
+
+  "recommendation_criteria": {
+    "max_rent": 500,
+    "min_sqm": 50,
+    "city": "Helsinki"
+  }
+}

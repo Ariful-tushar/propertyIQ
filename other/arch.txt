@@ -1,0 +1,10 @@
+1. Read config.json
+2. Validate config
+3. Check whether page needs JavaScript
+4. Run Scrapy normally or with Playwright
+5. Detect pagination
+6. Visit listing/detail pages
+7. Use Scrapy-LLM to extract requested fields
+8. Validate extracted result
+9. Self-heal missing fields
+10. Save results and logs
