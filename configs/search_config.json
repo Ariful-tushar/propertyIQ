@@ -1,6 +1,6 @@
 {
-  "start_url": "https://www.vuokraovi.com/vuokra-asunnot/Helsinki",
-
+  "start_url": "https://huutokaupat.com/osasto/asunnot?jarjestys=katsotuimmat&sivu=1",
+  "discovery_mode": "scrapy",
   "fields": [
     "title",
     "rent",
